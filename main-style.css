@@ -144,6 +144,9 @@ p {
   background-color: #99011d;
 }
 
+.social-icons {
+    font-size: 15px;
+}
     
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
